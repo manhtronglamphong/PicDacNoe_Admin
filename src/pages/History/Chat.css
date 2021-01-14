@@ -1,0 +1,17 @@
+.chatbox {
+  max-height: 500px;
+  overflow: scroll;
+}
+.mess-line {
+  margin-top: 2%;
+}
+.user {
+  font-weight: bold;
+  display: inline-block;
+  text-align: left;
+}
+.message {
+  font-weight: normal;
+  display: inline-block;
+  text-align: left;
+}
